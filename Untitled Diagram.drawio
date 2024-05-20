@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T11:19:30.178Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.4" etag="OzADg79HqO5AjQWKMN2z" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T11:34:46.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7bVHuEwPMjqycqeYaGMM" version="24.4.4" type="github">
   <diagram name="Page-1" id="F9gyG1yOrENm51Sd8bWp">
-    <mxGraphModel>
+    <mxGraphModel dx="2284" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qL7mBHVw5iW5vJYl3SM-1" target="3qL7mBHVw5iW5vJYl3SM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-1" value="Junior Oracle Dev" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="550" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qL7mBHVw5iW5vJYl3SM-5" target="3qL7mBHVw5iW5vJYl3SM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-5" value="Senior Oracle&amp;nbsp; Developer/PHP Backend Developer" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="480" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qL7mBHVw5iW5vJYl3SM-7" target="3qL7mBHVw5iW5vJYl3SM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-7" value="Senior Oracle Developer/ Application Manager" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qL7mBHVw5iW5vJYl3SM-12" target="3qL7mBHVw5iW5vJYl3SM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-12" value="Senior Python/Senior Postgres Dev" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3qL7mBHVw5iW5vJYl3SM-14" value="Python Senior Developer/DB Developer" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="170" width="185" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
